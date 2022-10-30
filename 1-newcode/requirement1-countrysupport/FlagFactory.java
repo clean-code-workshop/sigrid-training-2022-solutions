@@ -52,4 +52,4 @@ public class FlagFactory {
     }
     // end::getFlag[]
 
-}
+} 
