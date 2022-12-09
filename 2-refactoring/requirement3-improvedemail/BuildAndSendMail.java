@@ -1,5 +1,3 @@
-Executable File  39 lines (29 sloc)  1.05 KB
-
 package eu.sig.training.ch05.buildandsendmail;
 
 public class BuildAndSendMail {
